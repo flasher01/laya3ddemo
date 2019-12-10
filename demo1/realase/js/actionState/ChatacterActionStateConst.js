@@ -1,0 +1,1 @@
+var CharacterActionStateConst=function(){function t(){}return t.IDLE="idle",t.RUN="run",t.ATTACK="attack",t.SKILL="skill",t.HIT="hit",t.DIE="die",t}();

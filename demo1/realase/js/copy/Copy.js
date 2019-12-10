@@ -1,0 +1,1 @@
+var Copy=function(){function e(){this._level=new Level}return e.prototype.enterCopy=function(e){e==CopyType.hangUp&&this._level.enter()},e}();

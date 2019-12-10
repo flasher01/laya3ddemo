@@ -1,0 +1,1 @@
+var GameModel=function(){function e(){}return e.ViewWH=640,e.ViewTH=1136,e.viewportW=640,e.viewportH=1136,e.viewportX=0,e.viewportY=0,e.OrthographicVerticalSize=10,e.CameraAspectRatio=640/1136,e}();

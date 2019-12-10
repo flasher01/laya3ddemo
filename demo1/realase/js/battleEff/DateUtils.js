@@ -1,0 +1,1 @@
+var DateUtils=function(){function n(){}return n.getTimer=function(){return Date.now()},n}();

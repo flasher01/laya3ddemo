@@ -1,0 +1,1 @@
+var HorseActionStateConst=function(){function n(){}return n.IDLE="idle",n.RUN="run",n.DIE="die",n.HIT="hit",n}();

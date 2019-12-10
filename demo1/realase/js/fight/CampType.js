@@ -1,0 +1,1 @@
+var CampType=function(){function n(){}return n.Enemy=1,n.Player=2,n}();

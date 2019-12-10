@@ -1,0 +1,1 @@
+var CopyType=function(){function n(){}return n.hangUp=1,n}();

@@ -1,0 +1,1 @@
+var CharacterModel=function(){return function(){this.life=Math.floor(2e3*Math.random()+200),this.speed=Math.floor(50*Math.random()+100),this.maxLife=this.life}}();
